@@ -1,2 +1,2 @@
-# PRO-C70-PROJECT
+# PRO-C70
 Project Solution Code
